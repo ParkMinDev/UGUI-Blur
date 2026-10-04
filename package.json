@@ -1,11 +1,11 @@
 {
   "name": "com.parkminpackages.ugui.blur",
   "displayName": "ParkMinPackages.UGUI.Blur",
-  "version": "4.3.3",
+  "version": "4.3.4",
   "license": "MIT",
-  "documentationUrl": "https://github.com/ParkMinDev/UGUI-Blur#readme",
-  "changelogUrl": "https://github.com/ParkMinDev/UGUI-Blur/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/ParkMinDev/UGUI-Blur/blob/main/LICENSE.md",
+  "documentationUrl": "https://github.com/ParkMinDev/UPM-UGUI-Blur#readme",
+  "changelogUrl": "https://github.com/ParkMinDev/UPM-UGUI-Blur/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ParkMinDev/UPM-UGUI-Blur/blob/main/LICENSE.md",
   "unity": "6000.5",
   "description": "URP background blur components for ParkMinPackages UGUI.",
   "dependencies": {
