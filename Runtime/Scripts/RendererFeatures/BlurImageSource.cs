@@ -1,4 +1,4 @@
-using ParkMinPackages.Foundation.Constants;
+using ParkMinDev.UPM.Foundation.Constants;
 using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering;
@@ -6,8 +6,9 @@ using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 using UnityEngine.Sprites;
 
-namespace ParkMinPackages.UGUI.Blur.RendererFeatures
+namespace ParkMinDev.UPM.UGUI.Blur.RendererFeatures
 {
+	[UnityEngine.Scripting.APIUpdating.MovedFrom(true, sourceNamespace: "ParkMinPackages.UGUI.Blur.RendererFeatures", sourceAssembly: "ParkMinPackages.UGUI.Blur", sourceClassName: "BlurImageSource")]
 	[ExecuteAlways, DisallowMultipleComponent]
 	public sealed class BlurImageSource : MonoBehaviour
 	{

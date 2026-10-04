@@ -1,4 +1,4 @@
-using ParkMinPackages.UGUI.Blur.RendererFeatures;
+using ParkMinDev.UPM.UGUI.Blur.RendererFeatures;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
-namespace ParkMinPackages.UGUI.Blur.Editor
+namespace ParkMinDev.UPM.UGUI.Blur.Editor
 {
 	public static class BlurImageRendererFeatureInstaller
 	{

@@ -1,6 +1,6 @@
 {
-  "name": "ParkMinPackages.UGUI.Blur.Editor",
-  "rootNamespace": "ParkMinPackages.UGUI.Blur.Editor",
+  "name": "ParkMinDev.UPM.UGUI.Blur.Editor",
+  "rootNamespace": "ParkMinDev.UPM.UGUI.Blur.Editor",
   "references": [
     "GUID:9614749c63301a0468351a3211fa0495",
     "Unity.RenderPipelines.Core.Runtime",

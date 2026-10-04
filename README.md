@@ -4,8 +4,8 @@ URP(Universal Render Pipeline) 17.x의 Render Graph를 이용해 uGUI 패널 뒤
 
 ## 의존 패키지
 
-- ParkMinPackages.Foundation 10.1.1
-- ParkMinPackages.UGUI 14.0.0
+- ParkMinDev.UPM.Foundation 10.1.1
+- ParkMinDev.UPM.UGUI 14.0.0
 - Unity UGUI 2.5.0
 - Universal Render Pipeline 17.5.0
 

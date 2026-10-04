@@ -1,13 +1,14 @@
-using ParkMinPackages.Foundation.Constants;
-using ParkMinPackages.UGUI.Blur.RendererFeatures;
+using ParkMinDev.UPM.Foundation.Constants;
+using ParkMinDev.UPM.UGUI.Blur.RendererFeatures;
 using Sirenix.OdinInspector;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Serialization;
 
-namespace ParkMinPackages.UGUI.Blur.Components
+namespace ParkMinDev.UPM.UGUI.Blur.Components
 {
+	[UnityEngine.Scripting.APIUpdating.MovedFrom(true, sourceNamespace: "ParkMinPackages.UGUI.Blur.Components", sourceAssembly: "ParkMinPackages.UGUI.Blur", sourceClassName: "BlurImage")]
 	[ExecuteAlways, DisallowMultipleComponent, RequireComponent(typeof(UnityEngine.UI.Image))]
 	public sealed class BlurImage : UnityEngine.UI.BaseMeshEffect, UnityEngine.UI.IMaterialModifier
 	{

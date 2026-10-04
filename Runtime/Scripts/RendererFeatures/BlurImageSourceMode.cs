@@ -1,4 +1,4 @@
-namespace ParkMinPackages.UGUI.Blur.RendererFeatures
+namespace ParkMinDev.UPM.UGUI.Blur.RendererFeatures
 {
 	public enum BlurImageSourceMode
 	{

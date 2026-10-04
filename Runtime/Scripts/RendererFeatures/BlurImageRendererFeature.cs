@@ -1,5 +1,5 @@
-using ParkMinPackages.Foundation.Constants;
-using ParkMinPackages.UGUI.Blur.Components;
+using ParkMinDev.UPM.Foundation.Constants;
+using ParkMinDev.UPM.UGUI.Blur.Components;
 using Sirenix.OdinInspector;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,8 +9,9 @@ using UnityEngine.Rendering.RenderGraphModule;
 using UnityEngine.Rendering.RenderGraphModule.Util;
 using UnityEngine.Rendering.Universal;
 
-namespace ParkMinPackages.UGUI.Blur.RendererFeatures
+namespace ParkMinDev.UPM.UGUI.Blur.RendererFeatures
 {
+	[UnityEngine.Scripting.APIUpdating.MovedFrom(true, sourceNamespace: "ParkMinPackages.UGUI.Blur.RendererFeatures", sourceAssembly: "ParkMinPackages.UGUI.Blur", sourceClassName: "BlurImageRendererFeature")]
 	public sealed class BlurImageRendererFeature : ScriptableRendererFeature
 	{
 		// - Public Methods -

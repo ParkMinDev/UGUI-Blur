@@ -1,5 +1,5 @@
-using ParkMinPackages.UGUI.Blur.Components;
-using ParkMinPackages.UGUI.Blur.RendererFeatures;
+using ParkMinDev.UPM.UGUI.Blur.Components;
+using ParkMinDev.UPM.UGUI.Blur.RendererFeatures;
 using Sirenix.OdinInspector.Editor;
 using Sirenix.Utilities.Editor;
 using System.Linq;
@@ -7,8 +7,9 @@ using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 
-namespace ParkMinPackages.UGUI.Blur.Editor
+namespace ParkMinDev.UPM.UGUI.Blur.Editor
 {
+	[UnityEngine.Scripting.APIUpdating.MovedFrom(true, sourceNamespace: "ParkMinPackages.UGUI.Blur.Editor", sourceAssembly: "ParkMinPackages.UGUI.Blur.Editor", sourceClassName: "BlurImageSourceEditor")]
 	[CustomEditor(typeof(BlurImageSource))]
 	internal sealed class BlurImageSourceEditor : OdinEditor
 	{

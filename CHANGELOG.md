@@ -5,6 +5,13 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [5.0.0] - 2026-10-04
+
+### Changed
+- Breaking: moved namespaces and assembly names from `ParkMinPackages.UGUI.Blur` to `ParkMinDev.UPM.UGUI.Blur` while preserving namespace suffixes and asset GUIDs.
+- Updated package references, assembly friend declarations, serialized type identifiers, and final dependency versions.
+- Added previous type-location metadata where applicable and preserved existing MovedFrom history.
+
 ## [4.3.5] - 2026-10-04
 
 ### Changed

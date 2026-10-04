@@ -1,6 +1,6 @@
 {
-    "name": "ParkMinPackages.UGUI.Blur",
-    "rootNamespace": "ParkMinPackages.UGUI.Blur",
+    "name": "ParkMinDev.UPM.UGUI.Blur",
+    "rootNamespace": "ParkMinDev.UPM.UGUI.Blur",
     "references": [
         "GUID:71a72178c26810b4fb6e1516407e5558",
         "GUID:df380645f10b7bc4b97d4f5eb6303d95",
