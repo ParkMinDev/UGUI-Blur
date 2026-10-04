@@ -183,7 +183,7 @@ namespace ParkMinDev.UPM.UGUI.Blur.Editor
 		}
 
 		// - Private Statics -
-		const string MenuPath = "ParkMinPackages/UGUI Blur/모든 Quality Level의 Renderer Assets에 Blur Renderer Feature 추가";
+		const string MenuPath = "ParkMinDev/UGUI Blur/모든 Quality Level의 Renderer Assets에 Blur Renderer Feature 추가";
 		const string DialogTitle = "UGUI Blur Renderer Feature";
 		const string BlurShaderPath = "Packages/com.parkmindev.upm.ugui.blur/Runtime/Shaders/UIBackgroundGaussianBlur.shader";
 	}
