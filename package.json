@@ -1,7 +1,7 @@
 {
-  "name": "com.parkminpackages.ugui.blur",
-  "displayName": "ParkMinPackages.UGUI.Blur",
-  "version": "4.3.4",
+  "name": "com.parkmindev.upm.ugui.blur",
+  "displayName": "ParkMinDev.UPM.UGUI.Blur",
+  "version": "4.3.5",
   "license": "MIT",
   "documentationUrl": "https://github.com/ParkMinDev/UPM-UGUI-Blur#readme",
   "changelogUrl": "https://github.com/ParkMinDev/UPM-UGUI-Blur/blob/main/CHANGELOG.md",
@@ -13,7 +13,7 @@
     "com.unity.render-pipelines.universal": "17.5.0"
   },
   "author": {
-    "name": "ParkMinPackages",
+    "name": "ParkMinDev",
     "url": "https://github.com/ParkMinDev"
   }
 }

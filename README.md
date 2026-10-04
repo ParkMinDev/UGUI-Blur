@@ -1,4 +1,4 @@
-# ParkMinPackages.UGUI.Blur
+# ParkMinDev.UPM.UGUI.Blur
 
 URP(Universal Render Pipeline) 17.x의 Render Graph를 이용해 uGUI 패널 뒤의 배경을 흐리게 표시하는 패키지입니다.
 

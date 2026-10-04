@@ -5,6 +5,12 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.3.5] - 2026-10-04
+
+### Changed
+- Standardized package identity and display name as `com.parkmindev.upm.ugui.blur` / `ParkMinDev.UPM.UGUI.Blur`.
+- Synchronized own-package dependency versions for this release; C# namespaces and assembly names remain unchanged.
+
 ## [4.3.4] - 2026-10-04
 
 ### Changed
